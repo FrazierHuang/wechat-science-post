@@ -1,0 +1,6 @@
+interface:
+  display_name: "WeChat Science Post"
+  short_description: "公众号科普与文献分享写作排版助手"
+  default_prompt: "Use $wechat-science-post to draft or revise a professional WeChat science article."
+policy:
+  allow_implicit_invocation: true
